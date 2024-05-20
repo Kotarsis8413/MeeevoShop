@@ -13,13 +13,14 @@ const pages = {
                         <h2 className="m22">500₽</h2>
                         <button className="m22">Добавить в корзину</button>
                     </div>
+                </div>
+                <div className="item">
                     <div>
                         <img src="https://rustlabs.com/img/items180/smg.thompson.png" className="m22"></img>
                         <h3 className="m22">Томик</h3>
                         <h2 className="m22">750₽</h2>
                         <button className="m22">Добавить в корзину</button>
                     </div>
-                    
                 </div>
             </itemPool>
         </div>
