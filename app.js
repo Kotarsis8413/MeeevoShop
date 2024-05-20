@@ -8,9 +8,9 @@ const pages = {
             <itemPool>
                 <div className="item">
                     <div>
-                        <img src="assets/imgs/dvushka.jpg" className="m10"></img>
-                        <h3 className="m10">Двушка</h3>
-                        <h2 className="m10">500₽</h2>
+                        <img src="assets/imgs/dvushka.jpg" className="m22"></img>
+                        <h3 className="m22">Двушка</h3>
+                        <h2 className="m22">500₽</h2>
                     </div>
                 </div>
             </itemPool>
