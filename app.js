@@ -18,6 +18,10 @@ const pages = {
     )
 }
 
+window.onload = () => {
+    changePage('mainpage');
+}
+
 function changePage(page) {
     switch (page) {
         case 'mainpage':
