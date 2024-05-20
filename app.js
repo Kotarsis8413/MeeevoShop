@@ -7,9 +7,11 @@ const pages = {
             <h2 className="center">Главная</h2>
             <itemPool>
                 <div className="item">
-                    <img src="assets/imgs/dvushka.jpg"></img>
-                    <h3>Двушка</h3>
-                    <h2>500₽</h2>
+                    <div className="m10">
+                        <img src="assets/imgs/dvushka.jpg"></img>
+                        <h3>Двушка</h3>
+                        <h2>500₽</h2>
+                    </div>
                 </div>
             </itemPool>
         </div>
