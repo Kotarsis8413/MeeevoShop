@@ -18,9 +18,7 @@ const pages = {
     )
 }
 
-window.onload = () => {
-    changePage('mainpage');
-}
+root.render(pages.mainpage);
 
 function changePage(page) {
     switch (page) {
