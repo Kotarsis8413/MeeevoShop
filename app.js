@@ -9,12 +9,12 @@ const pages = {
                 <div className="item">
                         <img src="assets/imgs/dvushka.png" className="m22"/>
                         <h3 className="m22">Двушка</h3>
-                        <div className="m22"><h2>750₽</h2><button className="cartbtn">В корзину</button></div>
+                        <div className="m22"><h2>649₽</h2><button className="cartbtn">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/tomik.png" className="m22"/>
                         <h3 className="m22">Томик</h3>
-                        <div className="m22"><h2>750₽</h2><button className="cartbtn">В корзину</button></div>
+                        <div className="m22"><h2>749₽</h2><button className="cartbtn">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/kalash.png" className="m22"/>
@@ -24,12 +24,12 @@ const pages = {
                 <div className="item">
                         <img src="assets/imgs/sochel.png" className="m22"/>
                         <h3 className="m22">Сочель</h3>
-                        <div className="m22"><h2>650₽</h2><button className="cartbtn">В корзину</button></div>
+                        <div className="m22"><h2>649₽</h2><button className="cartbtn">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/sishka.png" className="m22"/>
                         <h3 className="m22">Сишка</h3>
-                        <div className="m22"><h2>950₽</h2><button className="cartbtn">В корзину</button></div>
+                        <div className="m22"><h2>949₽</h2><button className="cartbtn">В корзину</button></div>
                 </div>
             </div>
         </div>
