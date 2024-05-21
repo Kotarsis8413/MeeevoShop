@@ -9,14 +9,12 @@ const pages = {
                 <div className="item">
                         <img src="assets/imgs/dvushka.png" className="m22"/>
                         <h3 className="m22">Двушка</h3>
-                        <h2 className="m22">500₽</h2>
-                        <button className="m22 cartbtn">В корзину</button>
+                        <div className="m22"><h2>750₽</h2><button className="cartbtn">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/tomik.png" className="m22"/>
                         <h3 className="m22">Томик</h3>
-                        <h2 className="m22">750₽</h2>
-                        <button className="m22 cartbtn">В корзину</button>
+                        <div className="m22"><h2>750₽</h2><button className="cartbtn">В корзину</button></div>
                 </div>
             </div>
         </div>
