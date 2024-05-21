@@ -5,7 +5,7 @@ const pages = {
     mainpage: (
         <div>
             <h2 className="center">Главная</h2>
-            <itemPool>
+            <itempool>
                 <div className="item">
                     <div>
                         <img src="assets/imgs/dvushka.jpg" className="m22"></img>
@@ -22,7 +22,7 @@ const pages = {
                         <button className="">В корзину</button>
                     </div>
                 </div>
-            </itemPool>
+            </itempool>
         </div>
     )
 }
