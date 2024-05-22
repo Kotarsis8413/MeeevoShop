@@ -51,7 +51,7 @@ function changePage(page) {
             break;
         case 'cart':
             alert("GitHub Pages не поддерживает серверные скрипты, поэтому весь backend перенесён на другой хостинг");
-            window.location = "https://google.com";
+            window.location = "http://meeevogrup.temp.swtest.ru/MeeevoShop/cart/";
             break;
         default:
             root.render(<h2>RENDER ERROR</h2>);
