@@ -37,7 +37,7 @@ const pages = {
     cart: (
         <div>
             <h2 className="center">Корзина</h2>
-            <iframe></iframe>
+            
         </div>
     )
 }
@@ -48,6 +48,10 @@ function changePage(page) {
     switch (page) {
         case 'mainpage':
             root.render(pages.mainpage);
+            break;
+        case 'cart':
+            alert("GitHub Pages не поддерживает серверные скрипты, поэтому весь backend перенесён на другой хостинг");
+            window.location = "https://google.com";
             break;
         default:
             root.render(<h2>RENDER ERROR</h2>);
