@@ -33,6 +33,12 @@ const pages = {
                 </div>
             </div>
         </div>
+    ),
+    cart: (
+        <div>
+            <h2 className="center">Корзина</h2>
+            <iframe></iframe>
+        </div>
     )
 }
 
