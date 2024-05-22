@@ -19,7 +19,7 @@ const pages = {
                 <div className="item">
                         <img src="assets/imgs/kalash.png" className="m22"/>
                         <h3 className="m22">Калаш</h3>
-                        <div className="m22"><h2>1199₽</h2><button className="cartbtn">В корзину</button></div>
+                        <div className="m22"><h2>999₽</h2><button className="cartbtn">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/sochel.png" className="m22"/>
