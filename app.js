@@ -64,5 +64,5 @@ function addToCart(item) {
     var pass = prompt("Введите ваш пароль");
     alert("GitHub Pages не поддерживает серверные скрипты, поэтому весь backend перенесён на другой хостинг");
 
-    window.location = `http://meeevogrup.temp.swtest.ru/MeeevoShop/cart/api?name=${name}&pass=${pass}&item=${item}`;
+    window.location = `http://meeevogrup.temp.swtest.ru/MeeevoShop/cart/api.php?name=${name}&pass=${pass}&item=${item}`;
 }
