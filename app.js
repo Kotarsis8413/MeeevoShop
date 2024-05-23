@@ -9,27 +9,27 @@ const pages = {
                 <div className="item">
                         <img src="assets/imgs/dvushka.png" className="m22"/>
                         <h3 className="m22">Двушка</h3>
-                        <div className="m22"><h2>649₽</h2><button className="cartbtn" onClick={addToCart(1)}>В корзину</button></div>
+                        <div className="m22"><h2>649₽</h2><button className="cartbtn" onClick="addToCart(1)">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/tomik.png" className="m22"/>
                         <h3 className="m22">Томик</h3>
-                        <div className="m22"><h2>749₽</h2><button className="cartbtn" onClick={addToCart(2)}>В корзину</button></div>
+                        <div className="m22"><h2>749₽</h2><button className="cartbtn" onClick="addToCart(2)">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/kalash.png" className="m22"/>
                         <h3 className="m22">Калаш</h3>
-                        <div className="m22"><h2>999₽</h2><button className="cartbtn" onClick={addToCart(3)}>В корзину</button></div>
+                        <div className="m22"><h2>999₽</h2><button className="cartbtn" onClick="addToCart(3)">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/sochel.png" className="m22"/>
                         <h3 className="m22">Сочель</h3>
-                        <div className="m22"><h2>649₽</h2><button className="cartbtn" onClick={addToCart(4)}>В корзину</button></div>
+                        <div className="m22"><h2>649₽</h2><button className="cartbtn" onClick="addToCart(4)">В корзину</button></div>
                 </div>
                 <div className="item">
                         <img src="assets/imgs/sishka.png" className="m22"/>
                         <h3 className="m22">Сишка</h3>
-                        <div className="m22"><h2>949₽</h2><button className="cartbtn" onClick={addToCart(5)}>В корзину</button></div>
+                        <div className="m22"><h2>949₽</h2><button className="cartbtn" onClick="addToCart(5)">В корзину</button></div>
                 </div>
             </div>
         </div>
